@@ -2,7 +2,7 @@
 <a href="https://donate.unrwa.org/-landing-page/en_EN">
 <img src="https://raw.githubusercontent.com/LIGMATV/Save-Palestine-Badge/main/Badge/Save%20Palestine.min.svg" style="width:200px; height:50px;"></a></div>
 
-# Welcome to LIGMATV Readme! 👋
+# Welcome to LIGMATV Readme! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" width="50" height="50">
 Im can talk in **Indonesian, Malaysian, English, HTML, CSS and Javascript** language.
 
 ### My Skills
