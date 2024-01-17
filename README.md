@@ -14,3 +14,7 @@ Im can talk in **Indonesian, Malaysian, English, HTML, CSS and Javascript** lang
 ![LIGMATV's Stats](https://github-readme-stats.vercel.app/api?username=LIGMATV&theme=nord)
 
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
+
+### Who Visit
+
+![Visit](https://s11.flagcounter.com/count2/taW4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0)
