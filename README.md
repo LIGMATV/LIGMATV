@@ -1,11 +1,8 @@
 <!--                                                          This is HTML in Markdown                                                          -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LIGMATV/Home/main/logo/favicon.svg" style="width:80px; height:80px;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Palestinian%20Territories.webp" style="width:90px; height:90px;"><br>
-<h3>Stand with Palestine</h3>
-
-
+<a href="https://github.com/aborazmeh/awesome-palestine?tab=readme-ov-file#awesome-palestine--">
+<img src="https://raw.githubusercontent.com/LIGMATV/Save-Palestine-Badge/main/Badge/Save%20Palestine.min.svg" style="width:200px; height:50px;"></a>
 
 <h1> Welcome to LIGMATV Readme!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Sparkling%20Heart.webp" width="40" height="40"> </h1>
 
