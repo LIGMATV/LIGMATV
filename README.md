@@ -62,5 +62,5 @@ Im can talk in **Indonesian, Malaysian, English, HTML, CSS and Javascript** lang
 
 <a href="https://info.flagcounter.com/Wub4"><img src="https://s11.flagcounter.com/count/Wub4/bg_97D9E1/txt_8C718C/border_D9AFD9/columns_8/maxflags_21/viewers_Who+Visit/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-TeleEmojis getted by [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)  
-Badges get by [Vedant Chainani](https://github.com/Envoy-VC/awesome-badges)
+TeleEmojis from [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)  
+Badges from [Vedant Chainani](https://github.com/Envoy-VC/awesome-badges)
