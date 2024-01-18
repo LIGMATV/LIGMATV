@@ -63,3 +63,4 @@
 
 TeleEmojis from [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)  
 Badges from [Vedant Chainani](https://github.com/Envoy-VC/awesome-badges)
+Stats from [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
