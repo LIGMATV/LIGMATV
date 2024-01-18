@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200">
+  <style>
+  body {
+    text-align: center;
+  }
+    @font-face {
+      font-family: 'Samsung Sharp Sans Bold';
+      src: url('https://ligmatv.vercel.app/font/samsungsharpsans-bold.woff') format('truetype');
+    }
+    @font-face {
+      font-family: 'kanji-pa';
+      src: url('https://ligmatv.vercel.app/font/Kanji_PA.woff') format('truetype');
+    }
+    .kanji-pa {
+      font-family: 'kanji-pa', sans-serif;
+      cursor: text;
+      text-align: center;
+      color: #7576AC;
+      padding-left: 20px;
+      text-shadow: 
+        1px 1px 1px #07BBBC,
+        1px 2px 1px #07BBBC,
+        1px 3px 1px #07BBBC,
+        1px 4px 1px #07BBBC,
+        1px 5px 1px #07BBBC,
+        1px 6px 1px #07BBBC,
+        1px 7px 1px #07BBBC,
+        1px 18px 6px rgba(16,16,16,0.4),
+        1px 22px 10px rgba(16,16,16,0.2),
+        1px 25px 35px rgba(16,16,16,0.2),
+        1px 30px 60px rgba(16,16,16,0.4);
+    }
+    span {
+      background: linear-gradient(to right, #7576AC 0%, #07BBBC 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-family: 'Samsung Sharp Sans Bold', sans-serif;
+    }
+    .bounce2 {
+      -webkit-animation: bounce2 2s ease infinite;
+      animation: bounce2 2s ease infinite;
+    }
+    @-webkit-keyframes bounce2 {
+      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+      40% {transform: translateY(-30px);}
+      60% {transform: translateY(-15px);}
+    }
+    @keyframes bounce2 {
+      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+      40% {transform: translateY(-30px);}
+      60% {transform: translateY(-15px);}
+    }
+        @media screen and (min-width: 601px) {
+          span {
+          font-size: 300%; }}
+
+@media screen and (max-width: 600px) {
+        span  {
+    font-size: 100%; }}
+
+    @media screen and (min-width: 601px) {
+          .kanji-pa {
+            font-size: 5em; }}
+
+@media screen and (max-width: 600px) {
+        .kanji-pa  {
+          font-size: 2em; }}
+  </style>
+  <foreignObject class="node" width="1000" height="1000">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <div class="bounce2">
+        <span>Welcome to</span><a class="kanji-pa">LIGMATV</a><span>Readme!</span>
+      </div>
+    </body>
+  </foreignObject>
+</svg>
