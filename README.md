@@ -62,5 +62,5 @@
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
 
 TeleEmojis from [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)  
-Badges from [Vedant Chainani](https://github.com/Envoy-VC/awesome-badges)
+Badges from [Vedant Chainani](https://github.com/Envoy-VC/awesome-badges)  
 Stats from [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
