@@ -64,10 +64,5 @@
 
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
 
-### Who Visit
-*Start from 18/01/2023*
-
-<a href="https://info.flagcounter.com/Wub4"><img src="https://s11.flagcounter.com/count/Wub4/bg_97D9E1/txt_8C718C/border_D9AFD9/columns_8/maxflags_21/viewers_Who+Visit/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 TeleEmojis from [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)  
 Badges from [Vedant Chainani](https://github.com/Envoy-VC/awesome-badges)
