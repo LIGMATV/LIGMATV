@@ -16,5 +16,6 @@ Im can talk in **Indonesian, Malaysian, English, HTML, CSS and Javascript** lang
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
 
 ### Who Visit
+*Start from 18/01/2023*
 
-![Visit](https://s11.flagcounter.com/count2/taW4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0)
+<a href="https://info.flagcounter.com/Wub4"><img src="https://s11.flagcounter.com/count/Wub4/bg_97D9E1/txt_8C718C/border_D9AFD9/columns_8/maxflags_21/viewers_Who+Visit/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
