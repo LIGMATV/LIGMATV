@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200">
-  <style>
-  body {
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+<style>body {
     text-align: center;
   }
     @font-face {
       font-family: 'Samsung Sharp Sans Bold';
-      src: url('https://github.com/LIGMATV/Home/raw/main/font/samsungsharpsans-bold.woff') format('truetype');
+      src: url('https://ligmatv.vercel.app/font/samsungsharpsans-bold.woff') format('truetype');
     }
     @font-face {
       font-family: 'kanji-pa';
-      src: url('https://github.com/LIGMATV/Home/raw/main/font/Kanji_PA.woff') format('truetype');
+      src: url('https://ligmatv.vercel.app/font/Kanji_PA.woff') format('truetype');
     }
     .kanji-pa {
       font-family: 'kanji-pa', sans-serif;
@@ -64,13 +64,14 @@
 
 @media screen and (max-width: 600px) {
         .kanji-pa  {
-          font-size: 2em; }}
-  </style>
-  <foreignObject class="node" width="1000" height="1000">
-    <body xmlns="http://www.w3.org/1999/xhtml">
-      <div class="bounce2">
-        <span>Welcome to</span><a class="kanji-pa">LIGMATV</a><span>Readme!</span>
-      </div>
-    </body>
-  </foreignObject>
+          font-size: 2em; }}</style>
+<foreignObject class="node" width="1000" height="1000">
+<body xmlns="http://www.w3.org/1999/xhtml">
+<div class="bounce2">
+<span>Welcome to</span>
+<a class="kanji-pa">LIGMATV</a>
+<span>Readme!</span>
+</div>
+</body>
+</foreignObject>
 </svg>
