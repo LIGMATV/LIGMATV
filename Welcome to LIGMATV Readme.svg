@@ -5,11 +5,11 @@
   }
     @font-face {
       font-family: 'Samsung Sharp Sans Bold';
-      src: url('https://ligmatv.vercel.app/font/samsungsharpsans-bold.woff') format('truetype');
+      src: url('https://github.com/LIGMATV/Home/raw/main/font/samsungsharpsans-bold.woff') format('truetype');
     }
     @font-face {
       font-family: 'kanji-pa';
-      src: url('https://ligmatv.vercel.app/font/Kanji_PA.woff') format('truetype');
+      src: url('https://github.com/LIGMATV/Home/raw/main/font/Kanji_PA.woff') format('truetype');
     }
     .kanji-pa {
       font-family: 'kanji-pa', sans-serif;
