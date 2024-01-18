@@ -1,15 +1,18 @@
+<!--                                                          This is HTML in Markdown                                                          -->
 <div align="center">
 <a href="https://donate.unrwa.org/-landing-page/en_EN">
 <img src="https://raw.githubusercontent.com/LIGMATV/Save-Palestine-Badge/main/Badge/Save%20Palestine.min.svg" style="width:200px; height:50px;"></a>
 
-# Welcome to LIGMATV Readme! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Sparkling%20Heart.webp" width="40" height="40">
+<h1> Welcome to LIGMATV Readme!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Sparkling%20Heart.webp" width="40" height="40"> </h1>
 
-[Go to my website](https://ligmatv.vercel.app/)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;">
+<a href="https://ligmatv.vercel.app/">Go to my website
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </a>
 
-Im can talk in **Indonesian, Malaysian, English, HTML, CSS and Javascript** language.
+<p> Im can talk in <strong>Indonesian, Malaysian, English, HTML, CSS and Javascript</strong> language. </p>
 
 </div>
+<!--                                                          This is HTML in Markdown                                                          -->
+
 
 ### My language skill
 
