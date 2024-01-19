@@ -17,8 +17,9 @@
 [![6](https://img.shields.io/badge/Bu51nn3ss%20=%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ligmatv.id@gmail.com)
 
 
-
 </div>
+
+#### Hello! Im a *(not)* developer, im just do it for fun in the free time.
 
 ### My language skill
 
