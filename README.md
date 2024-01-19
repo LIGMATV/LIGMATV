@@ -14,7 +14,7 @@
 [![4](https://custom-icon-badges.demolab.com/badge/Sticker.ly-0D50F7?logo=sticker.ly&style=for-the-badge&logoColor=white)](https://sticker.ly/user/officialligmatv)
 [![5](https://custom-icon-badges.demolab.com/badge/Twibbon-9CE0F0?logo=twibbon&style=for-the-badge)](https://klip.id/user/64e31cf9bb8cabfbe8a55314)
 [![5](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://l1gm4tv.blogspot.com/)
-[![6](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ligmatv.id@gmail.com)
+[![6](https://img.shields.io/badge/Bu51nn3ss%20=%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ligmatv.id@gmail.com)
 
 
 
