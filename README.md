@@ -73,9 +73,13 @@
 ![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte)
 ![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte)
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+### My YouTube channel
+*[Subscribe](https://url-xc.vercel.app/youtube) pls*
+  
+![LIGMATV's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5)
 
-TeleEmojis from [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)  
-Badges from [Vedant Chainani](https://github.com/Envoy-VC/awesome-badges)  
-Stats from [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="right">
+<p>TeleEmojis from <a href="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis">Tarikul Islam Anik</a><br>Badges from <a href="https://github.com/Envoy-VC/awesome-badges">Vedant Chainani</a><br>Stats from <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a><br>YouTube Stats from <a href="https://github.com/dhyeythumar/youtube-stats-card">Dhyey Thumar</a></p>
+
+</div>
