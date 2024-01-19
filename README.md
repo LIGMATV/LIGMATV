@@ -3,7 +3,7 @@
 <a href="https://github.com/aborazmeh/awesome-palestine?tab=readme-ov-file#awesome-palestine--">
 <img src="https://raw.githubusercontent.com/LIGMATV/Save-Palestine-Badge/main/Badge/Save%20Palestine.min.svg" style="width:200px; height:50px;"></a>
 
-<h1> Welcome to LIGMATV Readme!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Sparkling%20Heart.webp" width="40" height="40"> </h1>
+![img](img.png)
 
 [![0](https://img.shields.io/badge/Go%20to%20my%20Website!-07BBBC?style=for-the-badge)](https://ligmatv.vercel.app/)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:30px; height:30px;"> </a>
