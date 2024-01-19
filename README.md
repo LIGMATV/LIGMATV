@@ -17,11 +17,15 @@
 [![6](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ligmatv)
 [![*](https://img.shields.io/badge/Bu51nn3ss%20=%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ligmatv.id@gmail.com)
 
-
 </div>
 
 #### Hello! Im a *(not)* developer, im just do it for fun in the free time.
 
+<details> <summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" style="width:30px; height:30px;">
+  Learn mooore about me
+</summary>
+  
 ### My language skill
 
 ![1](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
