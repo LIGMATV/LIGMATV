@@ -6,7 +6,7 @@
 ![img](img.png)
 
 [![0](https://img.shields.io/badge/Go%20to%20my%20Website!-07BBBC?style=for-the-badge)](https://ligmatv.vercel.app/)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:30px; height:30px;"> </a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </a>
 
 [![1](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://l-i.vercel.app/youtube)
 [![2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIGMATV)
@@ -16,6 +16,9 @@
 [![5](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://l1gm4tv.blogspot.com/)
 [![6](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ligmatv)
 [![*](https://img.shields.io/badge/Bu51nn3ss%20=%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ligmatv.id@gmail.com)
+
+[![1](https://img.shields.io/badge/File%20PPTX-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://u.pcloud.link/publink/show?code=Fm8rtalK#folder=19727002281)
+[![2](https://img.shields.io/badge/Video%20Lama-B7472A?style=for-the-badge&logo=youtube&logoColor=white)](https://u.pcloud.link/publink/show?code=Fm8rtalK#folder=19726954263)
 
 </div>
 
@@ -71,21 +74,29 @@
 
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
 
-### Some tools by me!
-
-![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=EmojiBin&theme=catppuccin_latte)
-![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ScrRec&theme=catppuccin_latte)
-![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Music-Visualizer&theme=catppuccin_latte)
-![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Simple-CSS-Animation&theme=catppuccin_latte)
-![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte)
-![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte)
-
 ### My YouTube channel
 *[Subscribe](https://url-xc.vercel.app/youtube) pls*  
 Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.html)
   
 ![LIGMATV's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5)
 
+</details>
+
+<details> <summary> <h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Luggage.webp" style="width:20px; height:20px;">
+  Some tools by me!
+</h3>
+</summary>
+
+
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=EmojiBin&theme=catppuccin_latte)](https://emojibin.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ScrRec&theme=catppuccin_latte)](https://scrrec.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Music-Visualizer&theme=catppuccin_latte)](https://simplemusicvisualizer.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Simple-CSS-Animation&theme=catppuccin_latte)](https://simplecssanimation.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte)](https://shortstock.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte)](https://bukumark.vercel.app/)
+
+</details>
 
 <div align="right">
 <p>TeleEmojis from <a href="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis">Tarikul Islam Anik</a><br>Badges from <a href="https://github.com/Envoy-VC/awesome-badges">Vedant Chainani</a><br>Stats from <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a><br>YouTube Stats from <a href="https://github.com/dhyeythumar/youtube-stats-card">Dhyey Thumar</a></p>
