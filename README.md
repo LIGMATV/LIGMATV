@@ -21,9 +21,10 @@
 
 #### Hello! Im a *(not)* developer, im just do it for fun in the free time.
 
-<details> <summary>
+<details> <summary> <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" style="width:30px; height:30px;">
   Learn mooore about me
+</h3>
 </summary>
   
 ### My language skill
