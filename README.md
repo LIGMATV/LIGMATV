@@ -75,7 +75,7 @@
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
 
 ### My YouTube channel
-*[Subscribe](https://url-xc.vercel.app/youtube) pls*  
+*[Subscribe](https://l-i.vercel.app/youtube) pls*  
 Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.html)
   
 ![LIGMATV's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5)
