@@ -8,7 +8,7 @@
 [![0](https://img.shields.io/badge/Go%20to%20my%20Website!-07BBBC?style=for-the-badge)](https://ligmatv.vercel.app/)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:30px; height:30px;"> </a>
 
-[![1](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://url-xc.vercel.app/youtube)
+[![1](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://l-i.vercel.app/youtube)
 [![2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIGMATV)
 [![3](https://custom-icon-badges.demolab.com/badge/Icon%20Pack%20Studio-f2f3f5?logo=ips&style=for-the-badge)](https://share.iconpackstudio.com/users/Fkfb)
 [![4](https://custom-icon-badges.demolab.com/badge/Sticker.ly-0D50F7?logo=sticker.ly&style=for-the-badge&logoColor=white)](https://sticker.ly/user/officialligmatv)
