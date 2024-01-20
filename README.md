@@ -96,7 +96,19 @@ Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.ht
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte)](https://shortstock.vercel.app/)
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte)](https://bukumark.vercel.app/)
 
-</details>
+<details><summary>
+Details
+  
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Archives&theme=catppuccin_latte)](https://archivs.vercel.app/)
+
+</summary>
+
+[![1](https://custom-icon-badges.demolab.com/badge/Arc%20Browser-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/arc.net/index.html)
+[![2](https://custom-icon-badges.demolab.com/badge/Is%20Arc%20On%20Windows%20Yet-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/www.isarconwindowsyet.com/index.html)
+[![3](https://img.shields.io/badge/Windows%207%20Games-000?style=for-the-badge&logo=windows-xp&logoColor=white)](https://archivs.vercel.app/win7games.com/index.html)
+[![4](https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000?style=for-the-badge)](https://archivs.vercel.app/pangobright.com/index.html)
+
+</details></details>
 
 <div align="right">
 <p>TeleEmojis from <a href="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis">Tarikul Islam Anik</a><br>Badges from <a href="https://github.com/Envoy-VC/awesome-badges">Vedant Chainani</a><br>Stats from <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a><br>YouTube Stats from <a href="https://github.com/dhyeythumar/youtube-stats-card">Dhyey Thumar</a></p>
