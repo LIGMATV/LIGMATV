@@ -17,8 +17,8 @@
 [![6](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ligmatv)
 [![*](https://img.shields.io/badge/Bu51nn3ss%20=%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ligmatv.id@gmail.com)
 
-[![1](https://img.shields.io/badge/File%20PPTX-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://u.pcloud.link/publink/show?code=Fm8rtalK#folder=19727002281)
-[![2](https://img.shields.io/badge/Video%20Lama-B7472A?style=for-the-badge&logo=youtube&logoColor=white)](https://u.pcloud.link/publink/show?code=Fm8rtalK#folder=19726954263)
+[![1](https://img.shields.io/badge/File%20PPTX-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://github.com/kdensport/File-PPTX)
+[![2](https://img.shields.io/badge/Video%20Lama-B7472A?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/kdensport/Video-Lama)
 
 </div>
 
