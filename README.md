@@ -95,6 +95,7 @@ Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.ht
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Simple-CSS-Animation&theme=catppuccin_latte)](https://simplecssanimation.vercel.app/)
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte)](https://shortstock.vercel.app/)
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte)](https://bukumark.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Pancasila&theme=catppuccin_latte)](https://pancasila.vercel.app/)
 
 <details><summary>
 Details
