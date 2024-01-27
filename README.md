@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/aborazmeh/awesome-palestine?tab=readme-ov-file#awesome-palestine--">
+<a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--">
 <img src="https://raw.githubusercontent.com/LIGMATV/Save-Palestine-Badge/main/Badge/Save%20Palestine.min.svg" style="width:200px; height:50px;"></a>
 
 ![img](https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/img.png)
