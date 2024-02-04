@@ -2,7 +2,7 @@
 
 <a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--">
 <img src="https://raw.githubusercontent.com/LIGMATV/Save-Palestine/main/Badge/Save%20Palestine.min.svg" style="width:200px; height:50px;"></a>
-<br>
+<br><br>
 
 ![img](https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg)
 
@@ -89,6 +89,7 @@ Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.ht
 </h3>
 </summary>
 
+All my project come in [MIT License](https://ligmatv.vercel.app/mit-license).
 
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=EmojiBin&theme=catppuccin_latte)](https://emojibin.vercel.app/)
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ScrRec&theme=catppuccin_latte)](https://scrrec.vercel.app/)
@@ -97,6 +98,8 @@ Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.ht
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte)](https://shortstock.vercel.app/)
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte)](https://bukumark.vercel.app/)
 [![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Pancasila&theme=catppuccin_latte)](https://pancasila.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Copies.js&theme=catppuccin_latte)](https://copies.vercel.app/)
+[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=2ools&theme=catppuccin_latte)](https://2ools.vercel.app/)
 
 <details><summary>
 Details
