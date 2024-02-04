@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 30" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+      @font-face {
+             font-family: 'kanji-pa';
+             src: url('https://ligmatv.vercel.app/font/Kanji_PA.woff') format('truetype');
+      }
+        </style>
+    </defs>
+
+   <linearGradient id="gr" x1="0%" y1="50%" x2="100%" y2="50%" >
+          <stop offset="0%" style="stop-color:rgb(117,118,172);stop-opacity:1.00" />
+          <stop offset="100%" style="stop-color:rgb(7,187,188);stop-opacity:1.00" />
+    </linearGradient>
+
+  <text x="10" y="20" font-family="Verdana" font-weight="bold" fill="url(#gr)">Welcome to</text>
+    <text x="120" y="20" font-family="kanji-pa" font-size="22px" fill="#7576AC">LIGMATV</text>
+      <text x="230" y="20" font-family="Verdana" font-weight="bold" fill="url(#gr)">Readme!</text>
+
+</svg>
