@@ -69,6 +69,13 @@
 ![3](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" style="width:30px; height:30px;">
 
+### My favorite program
+
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp"  style="width:30px; height:30px;"> For Note taking <img src="https://img.shields.io/badge/Affine-rgb(84,56,255)?style=for-the-badge&logoColor=white&logo=affine" width="80">
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp"  style="width:30px; height:30px;"> For Coding <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="90">
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp"  style="width:30px; height:30px;"> For Browsing <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" width="130">
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp"  style="width:30px; height:30px;"> Not just it...
+  
 ### My Stats
 
 ![LIGMATV's Stats](https://github-readme-stats.vercel.app/api?username=LIGMATV&theme=nord)
@@ -81,6 +88,8 @@ Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.ht
   
 ![LIGMATV's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5)
 
+
+  
 </details>
 
 <details> <summary> <h3>
