@@ -31,7 +31,7 @@
 </h3>
 </summary>
   
-### My language skill
+### My all skill
 
 ![1](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" style="width:30px; height:30px;">
@@ -42,45 +42,49 @@
 ![3](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Confused%20Face.webp" style="width:30px; height:30px;">
 
-### My coding feature
+![-](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![-](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![-](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![-](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![1](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" style="width:30px; height:30px;">
+---
 
-![2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Thumbs%20Up.webp" style="width:30px; height:30px;">
+### My website built in
 
-![1](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" style="width:30px; height:30px;">
+
+![2](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Victory%20Hand.webp" style="width:30px; height:30px;">
 
-### My browser
+![3](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)
 
-![1](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" style="width:30px; height:30px;">
+![-](https://img.shields.io/badge/%E2%9C%A8%20My%20skills-07bbbc?style=for-the-badge)
+![-](https://custom-icon-badges.demolab.com/badge/Code%20Beautify.org-ebebeb?logo=codebeautify&style=for-the-badge)
+![-](https://custom-icon-badges.demolab.com/badge/Progressive%20Web%20App-570FC2?logo=pwa&style=for-the-badge)
 
-### My operating system
+---
 
-![1](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" style="width:30px; height:30px;">
-
-![2](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" style="width:30px; height:30px;">
-
-![3](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" style="width:30px; height:30px;">
-
-### My favorite program
+### My favorite
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp"  style="width:30px; height:30px;"> For Note taking <img src="https://img.shields.io/badge/Affine-rgb(84,56,255)?style=for-the-badge&logoColor=white&logo=affine" width="80">
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp"  style="width:30px; height:30px;"> For Coding <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="90">
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp"  style="width:30px; height:30px;"> For Browsing <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" width="130">
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" style="width:30px; height:30px;"> For operating system <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="90"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="90">
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" style="width:30px; height:30px;"> For chat <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100"> <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-70A597?logo=chatgpt&style=for-the-badge&logoColor=white" width="90">
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Television.webp" style="width:30px; height:30px;"> For editing <img src="https://custom-icon-badges.demolab.com/badge/Lunacy-179DE3?logo=lunacy-editor&style=for-the-badge&logoColor=white" width="80"> <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Movie%20Maker-ebebeb?logo=wlmm&style=for-the-badge" width="180">
+
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp"  style="width:30px; height:30px;"> Not just it...
-  
+
+---
+
 ### My Stats
 
 ![LIGMATV's Stats](https://github-readme-stats.vercel.app/api?username=LIGMATV&theme=nord)
 
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
+
+---
 
 ### My YouTube channel
 *[Subscribe](https://l-i.vercel.app/youtube) pls*  
