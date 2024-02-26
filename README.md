@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--">
-<img src="https://raw.githubusercontent.com/LIGMATV/Save-Palestine/main/Badge/Save%20Palestine.min.svg" style="width:200px; height:50px;"></a>
-<br><br>
+[![StandWithPalestine](https://github.com/LIGMATV/LIGMATV/assets/143163098/c5c2852e-d837-47e6-9112-e4d355c50623)](https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--)
 
 ![img](https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg)
 
