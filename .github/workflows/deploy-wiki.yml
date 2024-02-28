@@ -3,7 +3,7 @@ name: deploy-wiki
 on:
   push:
     branches: "main"
-    paths: blog/**
+    paths: wiki/**
 jobs:
   deploy-wiki:
     permissions:
