@@ -75,7 +75,7 @@
 <hr>
 <h3 id="my-youtube-channel">My YouTube channel</h3>
 <p><em><a href="https://l-i.vercel.app/youtube">Subscribe</a> pls</em><br>Btw, <em>(Ssst...)</em> <a href="https://l-i.now.sh/nonpublic">Non Public Videos</a></p>
-<p><img src="https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5" alt="LIGMATV&#39;s youtube stats"></p>
+<p><img src="https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&ion_color=893AEF&text_color=367B80&bg_color=EFF1F5" alt="LIGMATV&#39;s youtube stats"></p>
 </details>
 
 <details> <summary> <h3>
