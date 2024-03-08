@@ -1,6 +1,8 @@
 <div align="center">
 
-<p><a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--"><img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/c5c2852e-d837-47e6-9112-e4d355c50623" alt="StandWithPalestine"></a></p>
+<p><a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--"><img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/c5c2852e-d837-47e6-9112-e4d355c50623" alt="StandWithPalestine"></a>
+<img src="https://komarev.com/ghpvc/?username=LIGMATV&color=07bbbc&style=flat-square">
+</p>
 
 <p><img src="https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg" alt="img"></p>
 
