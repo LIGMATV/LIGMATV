@@ -93,7 +93,10 @@
 <a href="https://bukumark.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
 <a href="https://pancasila.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Pancasila&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
 <a href="https://copies.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Copies.js&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://2ools.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=2ools&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a></p>
+<a href="https://kalert.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=KustomAlert.js&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
+<a href="https://2ools.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=2ools&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
+<a href="https://🚬.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Cigarettey&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
+</p>
 <details><summary>
 Details
   
