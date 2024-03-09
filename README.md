@@ -1,12 +1,12 @@
 <div align="center">
 
 <p><a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--"><img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/c5c2852e-d837-47e6-9112-e4d355c50623" alt="StandWithPalestine"></a>
-<img src="https://komarev.com/ghpvc/?username=LIGMATV&color=07bbbc&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=LIGMATV&color=07bbbc&style=flat-square"> <a href="https://l-i.now.sh/status"><img src="https://img.shields.io/badge/Status-687790?style=flat-square&logo=proto.io&logoColor=15ff00" alt="0"></a>
 </p>
 
 <p><img src="https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg" alt="img"></p>
 
-<p><a href="https://l-i.now.sh/blog"><img src="https://img.shields.io/badge/Read My Blogs-F39844?style=for-the-badge" alt="6"></a>
+<p><a href="https://l-i.now.sh/blog"><img src="https://img.shields.io/badge/Read My Blogs-F39844?style=for-the-badge" alt="0"></a>
 <a href="https://ligmatv.vercel.app/"><img src="https://img.shields.io/badge/Go%20to%20my%20Website!-07BBBC?style=for-the-badge" alt="0"></a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </a></p>
 <p>
