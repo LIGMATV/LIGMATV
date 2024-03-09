@@ -8,7 +8,7 @@
 
 <p><a href="https://l-i.now.sh/blog"><img src="https://img.shields.io/badge/Read My Blogs-F39844?style=for-the-badge" alt="0"></a>
 <a href="https://ligmatv.vercel.app/"><img src="https://img.shields.io/badge/Go%20to%20my%20Website!-07BBBC?style=for-the-badge" alt="0"></a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </a></p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </p>
 <p>
   
 <a href="https://l-i.vercel.app/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="1"></a>
