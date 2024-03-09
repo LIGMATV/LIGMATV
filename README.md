@@ -1,3 +1,12 @@
+<div align="right">
+<a href="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis"><img src="https://img.shields.io/badge/Telegram Animated Emojis-fff?style=flat-square&logo=github&logoColor=000"></a>
+<a href="https://github.com/Envoy-VC/awesome-badges"><img src="https://img.shields.io/badge/awesome badges-fff?style=flat-square&logo=github&logoColor=000"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://img.shields.io/badge/github readme stats-fff?style=flat-square&logo=github&logoColor=000"></a>
+<a href="https://github.com/dhyeythumar/youtube-stats-card"><img src="https://img.shields.io/badge/youtube stats card-fff?style=flat-square&logo=github&logoColor=000"></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://img.shields.io/badge/github profile views counter-fff?style=flat-square&logo=github&logoColor=000"></a>
+</div>
+<hr><br>
+
 <div align="center">
 
 <p><a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--"><img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/c5c2852e-d837-47e6-9112-e4d355c50623" alt="StandWithPalestine"></a>
@@ -20,14 +29,16 @@
 <a href="mailto:ligmatv.id@gmail.com"><img src="https://img.shields.io/badge/Bu51nn3ss%20=%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="*"></a></p>
 <p><a href="https://github.com/kdensport/File-PPTX"><img src="https://img.shields.io/badge/File%20PPTX-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="1"></a>
 <a href="https://github.com/kdensport/Video-Lama"><img src="https://img.shields.io/badge/Video%20Lama-B7472A?style=for-the-badge&logo=youtube&logoColor=white" alt="2"></a></p>
-</div>
+
 
 <h4 id="hello-im-a-not-developer-im-just-do-it-for-fun-in-the-free-time">Hello! Im a <em>(not)</em> developer, im just do it for fun in the free time.</h4>
-<details> <summary> <h3>
+
+</div>
+
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" style="width:30px; height:30px;">
   Learn mooore about me
-</h3>
-</summary>
+</h2>
   
 <h3 id="my-all-skill">My all skill</h3>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="1">
@@ -78,11 +89,10 @@
 <p><img src="https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&ion_color=893AEF&text_color=367B80&bg_color=EFF1F5" alt="LIGMATV&#39;s youtube stats"></p>
 </details>
 
-<details> <summary> <h3>
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Luggage.webp" style="width:20px; height:20px;">
   Some tools by me!
-</h3>
-</summary>
+</h2>
 
 <p>All my project come in <a href="https://ligmatv.vercel.app/mit-license">MIT License</a>.</p>
 <p><a href="https://emojibin.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=EmojiBin&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
@@ -97,22 +107,17 @@
 <a href="https://2ools.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=2ools&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
 <a href="https://🚬.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Cigarettey&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
 </p>
-<details><summary>
-Details
-  
+
+<hr>
+
 <p><a href="https://archivs.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Archives&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a></p>
-</summary>
 
 <p><a href="https://archivs.vercel.app/arc.net/index.html"><img src="https://custom-icon-badges.demolab.com/badge/Arc%20Browser-000?logo=arcbrowser&style=for-the-badge&logoColor=white" alt="1"></a>
 <a href="https://archivs.vercel.app/www.isarconwindowsyet.com/index.html"><img src="https://custom-icon-badges.demolab.com/badge/Is%20Arc%20On%20Windows%20Yet-000?logo=arcbrowser&style=for-the-badge&logoColor=white" alt="2"></a>
 <a href="https://archivs.vercel.app/win7games.com/index.html"><img src="https://img.shields.io/badge/Windows%207%20Games-000?style=for-the-badge&logo=windows-xp&logoColor=white" alt="3"></a>
 <a href="https://archivs.vercel.app/pangobright.com/index.html"><img src="https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000?style=for-the-badge" alt="4"></a></p>
-</details></details>
 
-<div align="right">
-<p>TeleEmojis from <a href="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis">Tarikul Islam Anik</a><br>Badges from <a href="https://github.com/Envoy-VC/awesome-badges">Vedant Chainani</a><br>Stats from <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a><br>YouTube Stats from <a href="https://github.com/dhyeythumar/youtube-stats-card">Dhyey Thumar</a></p>
 
-</div>
 
-<!-- yhype -->
+
 ![](https://hit.yhype.me/github/profile?user_id=143163098)
