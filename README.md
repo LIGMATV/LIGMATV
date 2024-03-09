@@ -31,9 +31,7 @@
 <a href="https://github.com/kdensport/Video-Lama"><img src="https://img.shields.io/badge/Video%20Lama-B7472A?style=for-the-badge&logo=youtube&logoColor=white" alt="2"></a></p>
 
 
-```diff
-@@ Hello! Im a (𝘯𝘰𝘵) developer, im just do it for fun in the free time.@@
-````
+<h4>Hello! Im a <em>(not)</em> developer, im just do it for fun in the free time.</h4>
 
 </div>
 
@@ -117,9 +115,6 @@
 <a href="https://archivs.vercel.app/www.isarconwindowsyet.com/index.html"><img src="https://custom-icon-badges.demolab.com/badge/Is%20Arc%20On%20Windows%20Yet-000?logo=arcbrowser&style=for-the-badge&logoColor=white" alt="2"></a>
 <a href="https://archivs.vercel.app/win7games.com/index.html"><img src="https://img.shields.io/badge/Windows%207%20Games-000?style=for-the-badge&logo=windows-xp&logoColor=white" alt="3"></a>
 <a href="https://archivs.vercel.app/pangobright.com/index.html"><img src="https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000?style=for-the-badge" alt="4"></a></p>
-
-> [!NOTE]  
-> <h1>The end</h1>
 
 
 ![](https://hit.yhype.me/github/profile?user_id=143163098)
