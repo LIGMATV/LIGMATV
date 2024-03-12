@@ -94,18 +94,21 @@
 </h2>
 
 <p>All my project come in <a href="https://ligmatv.vercel.app/mit-license">MIT License</a>.</p>
-<p><a href="https://emojibin.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=EmojiBin&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://scrrec.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ScrRec&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://simplemusicvisualizer.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Music-Visualizer&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://simplecssanimation.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Simple-CSS-Animation&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://shortstock.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://bukumark.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://pancasila.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Pancasila&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://copies.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Copies.js&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://kalert.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=KustomAlert.js&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://2ools.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=2ools&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-<a href="https://🚬.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Cigarettey&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
-</p>
+
+| Project | Screenshot <i>by <a href="https://thum.io">thum.io</a></i>
+|:-:|:-:|
+| <a href="https://emojibin.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=EmojiBin&theme=catppuccin_latte" alt="LIGMATV&#39;s Card" width="500%"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://emojibin.vercel.app/" width="500"> |
+| <a href="https://scrrec.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ScrRec&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://scrrec.vercel.app/" width="500"> |
+| <a href="https://simplemusicvisualizer.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Music-Visualizer&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://simplemusicvisualizer.vercel.app/" width="500"> |
+| <a href="https://simplecssanimation.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Simple-CSS-Animation&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://simplecssanimation.vercel.app/" width="500"> |
+| <a href="https://l-i.now.sh/shortstock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=ShortStock&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://ligmatv.github.io/Awesome-URL-Shortener/" width="500"> |
+| <a href="https://bukumark.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Bukumark&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://bukumark.vercel.app/" width="500"> |
+| <a href="https://pancasila.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Pancasila&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://pancasila.vercel.app/" width="500"> |
+| <a href="https://copies.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Copies.js&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://copies.vercel.app/" width="500"> |
+| <a href="https://kalert.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=KustomAlert.js&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://kalert.vercel.app/" width="500"> |
+| <a href="https://2ools.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=2ools&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://2ools.vercel.app/" width="500"> |
+| <a href="https://🚬.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Cigarettey&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a> | <img src="https://image.thum.io/get/width/720/crop/500/https://🚬.vercel.app/" width="500"> |
+
 
 <hr>
 
