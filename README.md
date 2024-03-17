@@ -31,7 +31,7 @@
 <a href="https://github.com/kdensport/Video-Lama"><img src="https://img.shields.io/badge/Video%20Lama-B7472A?style=for-the-badge&logo=youtube&logoColor=white" alt="2"></a></p>
 
 
-<h4>Hello! Im a <em>(not)</em> to excited developer, im just do it for fun in the free time.</h4>
+<h4>Hello! Im a <em>(not)</em> too excited developer, im just do it for fun in the free time.</h4>
 
 </div>
 
