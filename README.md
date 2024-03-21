@@ -10,7 +10,7 @@
 <div align="center">
 
 <p><a href="https://github.com/LIGMATV/Save-Palestine/blob/main/awesome-palestine.md#awesome-palestine--"><img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/c5c2852e-d837-47e6-9112-e4d355c50623" alt="StandWithPalestine"></a>
-<img src="https://komarev.com/ghpvc/?username=LIGMATV&color=07bbbc&style=flat-square"> <a href="https://l-i.now.sh/status"><img src="https://img.shields.io/badge/Status-687790?style=flat-square&logo=proto.io&logoColor=15ff00" alt="0"></a>
+<img src="https://komarev.com/ghpvc/?username=LIGMATV&color=07bbbc&style=flat-square"> <a href="https://l.hyperping.app/"><img src="https://img.shields.io/badge/Status-687790?style=flat-square&logo=proto.io&logoColor=15ff00" alt="0"></a>
 </p>
 
 <p><img src="https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg" alt="img"></p>
