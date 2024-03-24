@@ -10,7 +10,7 @@
 ### Font
 
 * On Welcome ([https://ligmatv.vercel.app/](https://ligmatv.vercel.app/)) : [Montserrat](https://fonts.google.com/specimen/Montserrat)
-* On Project : [Lato](https://fonts.google.com/specimen/Lato)
+* On Project : [Lato](https://fonts.google.com/specimen/Lato)/*Or something different*
 
 ### Color Palettes
 
