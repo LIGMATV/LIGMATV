@@ -16,5 +16,3 @@
 
 ![](https://img.shields.io/badge/-07BBBC?style=for-the-badge) `#07BBBC`  
 ![](https://img.shields.io/badge/-7576AC?style=for-the-badge) `#7576AC`
-
-#### Just for fun!
