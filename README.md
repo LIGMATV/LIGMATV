@@ -96,7 +96,7 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 <div align="center">
   
 | Link | Name | Description |
-|:-|:-|:-|
+|:-:|:-|:-|
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/930a931f-604a-4a19-9bda-ab53141acf75" width="80">](https://bukumark.vercel.app/)| **Bukumark** ![](https://img.shields.io/badge/Most%20updated!-07bbbc?style=flat-square) | Bookmark manager that keep you simple with beautiful UI |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/7ec10b0d-f4ff-4bf5-a9f6-c78f1b261b18" width="50">](https://emojibin.vercel.app/) | EmojiBin ![](https://img.shields.io/badge/First%20repostory-000?style=flat-square) | Copy & Paste Emoji |
 |  [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/3035351c-4424-43f3-9065-c91d3c9bfb74" width="50">](https://scrrec.vercel.app/) | ScrRec | Screen Recorder |
