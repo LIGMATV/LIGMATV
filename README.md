@@ -103,10 +103,10 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/574aa89f-0b77-4dda-9439-c23a7bc3d76e" width="50">](https://simplemusicvisualizer.vercel.app/) | Music Visualizer | Visualizing an music |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/9557d80d-a63d-4be0-8ecd-97317bc74a58" width="50">](https://simplecssanimation.vercel.app/) | Simple CSS Animation | Simply animation in CSS |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/a7704a37-1de3-45a6-b611-361776c89ab0" width="50">](https://l-i.now.sh/shortstock) | ShortStock | 🔗 Some lists of awesome URL shorteners |
-| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/8ad5f234-eabf-4027-8ff7-b970d80cfac4" width="50">](https://pancasila.vercel.app/) | Pancasila | Pancasila dalam HTML & CSS murni |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/8ad5f234-eabf-4027-8ff7-b970d80cfac4" width="50">](https://pancasila.vercel.app/) | Pancasila ![](https://img.shields.io/badge/%F0%9F%8C%90%20Local-efefef?style=flat-square) | Pancasila dalam HTML & CSS murni |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/d1c880dd-7318-4769-90b3-6300e5647bce" width="50">](https://copies.vercel.app/) | Copies.js | We just need copy text |
-| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/97c15b45-e8f7-4ec1-ad21-6069c9d4ce70" width="50">](https://kalert.vercel.app/) | KustomAlert.js | We just need an good and simple alert. |
-| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/2632f96d-8f19-4ea3-ada1-7fc82f19546b" width="50">](https://xn--b78h.vercel.app/) | Cigarettey | Informasi tentang merokok |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/97c15b45-e8f7-4ec1-ad21-6069c9d4ce70" width="50">](https://kalert.vercel.app/) | KustomAlert.js ![](https://img.shields.io/badge/Failed-ff0000?style=flat-square) | We just need an good and simple alert. |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/2632f96d-8f19-4ea3-ada1-7fc82f19546b" width="50">](https://xn--b78h.vercel.app/) | Cigarettey ![](https://img.shields.io/badge/%F0%9F%8C%90%20Local-efefef?style=flat-square) | Informasi tentang merokok |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/f112dac4-748e-4287-a071-7cbad53b23ce" width="50">](https://2ools.vercel.app/) | 2ools | Some `<this>`2`<this>` tools to used |
 
 </div>
