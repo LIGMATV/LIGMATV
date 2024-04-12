@@ -19,7 +19,7 @@
 
 ![HEADER](https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg)
 
-[![1](https://img.shields.io/badge/Read%20My%20Blogs!-07bbbc?style=for-the-badge)](https://ligmatv.vercel.app/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </p>
+[![1](https://img.shields.io/badge/Read%20My%20Blogs!-07bbbc?style=for-the-badge)](https://ligmatv.vercel.app/blog) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </p>
 
 [![1](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://l-i.vercel.app/youtube)
 [![2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIGMATV)
