@@ -92,8 +92,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Luggage.webp" style="width:20px; height:20px;"> Some tools by me!
 
 All my project come in [MIT License](https://opensource.org/license/mit).
-
-<div align="center">
   
 | Link | Name | Description |
 |:-:|:-|:-|
@@ -108,8 +106,6 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/97c15b45-e8f7-4ec1-ad21-6069c9d4ce70" width="50">](https://kalert.vercel.app/) | KustomAlert.js ![](https://img.shields.io/badge/Failed-ff0000?style=flat-square) | We just need an good and simple alert. |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/2632f96d-8f19-4ea3-ada1-7fc82f19546b" width="50">](https://xn--b78h.vercel.app/) | Cigarettey ![](https://img.shields.io/badge/%F0%9F%8C%90%20Local-efefef?style=flat-square) | Informasi tentang merokok |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/f112dac4-748e-4287-a071-7cbad53b23ce" width="50">](https://2ools.vercel.app/) | 2ools | Some `<this>`2`<this>` tools to used |
-
-</div>
 
 ---
 
