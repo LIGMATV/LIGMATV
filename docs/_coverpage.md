@@ -2,7 +2,7 @@
 
 # LIGMATV
 
-> Home of my open blogs.
+> Home of my open blogs 📖.
 
 Hello! Im a *(not)* too excited developer, im just do it for fun in the free time.
 
