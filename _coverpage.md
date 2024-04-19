@@ -8,4 +8,4 @@ Hello! Im a *(not)* too excited developer, im just do it for fun in the free tim
 
 [Learn more at GitHub](https://github.com/LIGMATV)
 [Try Bukumark!](https://bukumark.vercel.app/)
-[Getting Started](#-learn-mooore-about-me)
+[Getting Started](#main)
