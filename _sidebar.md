@@ -1,5 +1,6 @@
 - Blog
 
+  - [Cara Membuat Dokumentasi dan Blog Mudah!](blog/cara-membuat-dokumentasi-dan-blog-mudah.md)
   - [Cara Membuat Ppt Ke Video 60 Fps!](blog/cara-membuat-ppt-ke-video-60-fps.md)
   - [Cara Menambahkan Copyright Di Copy Paste](blog/cara-menambahkan-copyright-di-copy-paste.md)
   - [Ebook Html CSS Manual Dasar](blog/ebook-html-css-manual-dasar.md)

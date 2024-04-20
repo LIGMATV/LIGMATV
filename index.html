@@ -4,29 +4,8 @@
   <meta charset="UTF-8">
   <title>LIGMATV</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-  <meta name="title" content="LIGMATV">
-  <meta name="description" content="Hello! Im a (not) too excited developer, im just do it for fun in the free time.">
-  <meta name="keywords" content="ligmatv">
-  <meta name="robots" content="index, follow">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="language" content="English">
-  <meta name="author" content="LIGMATV">
-  <meta itemprop="name" content="LIGMATV">
-  <meta itemprop="description" content="Hello! Im a (not) too excited developer, im just do it for fun in the free time.">
-  <meta itemprop="image" content="https://ligmatv.vercel.app/img/header.jpg">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://ligmatv.vercel.app/">
-  <meta property="og:title" content="LIGMATV">
-  <meta property="og:description" content="Hello! Im a (not) too excited developer, im just do it for fun in the free time.">
-  <meta property="og:image" content="https://ligmatv.vercel.app/img/header.jpg">
-  <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://ligmatv.vercel.app/">
-  <meta property="twitter:title" content="LIGMATV">
-  <meta property="twitter:description" content="Hello! Im a (not) too excited developer, im just do it for fun in the free time.">
-  <meta property="twitter:image" content="https://ligmatv.vercel.app/img/header.jpg">
-
   <link rel="icon" href="img/logo.svg">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
@@ -45,9 +24,17 @@ body {
 .search input {
   font-family: "Figtree", sans-serif;
   margin: 10px;
+  border-radius: 8px;
+  border: 1px solid #07bbbc !important;
+  cursor: pointer;
+  transition: 0.1s;
 }
 
-.sidebar, .search input {
+.search input:focus {
+  cursor: text;
+}
+
+.sidebar {
   background-color: #F6F6F7;
 }
 
@@ -60,6 +47,15 @@ body {
   max-width: 0;
 }
 
+.markdown-section output:after, .markdown-section pre:after {
+  font-size: 12px;
+  padding: 8px;
+}
+
+.github-corner svg {
+  width: 60px;
+  height: 60px;
+}
 </style>
 
 </head>
@@ -87,6 +83,7 @@ body {
     docsDir: "",
     },
     }
+
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -94,5 +91,6 @@ body {
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
   <script src="https://unpkg.com/docsify-copy-code@2"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-github-edit-link@1/dist/github-edit-link.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
