@@ -1,96 +1,163 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+ <head>
   <meta charset="UTF-8">
   <title>LIGMATV</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="img/logo.svg">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <style>
+   @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+   :root {
+    --theme-color: hsl(180, 93%, 38%);
 
-:root {
-  --base-font-size: 16px;
-  --theme-color   : #07bbbc;
-}
+    /** Base */
+    --base-font-family: "Figtree", sans-serif;
+    --base-font-size: 15px;
+    --base-color: #34495e;
 
-body {
-  font-family: "Figtree", sans-serif;
-}
+    /** Headings */
+    --heading-h1-font-size: 2rem;
+    --heading-h1-font-weight: 600;
+    --heading-h2-font-weight: 600;
 
-.search input {
-  font-family: "Figtree", sans-serif;
-  margin: 10px;
-  border-radius: 8px;
-  border: 1px solid #07bbbc !important;
-  cursor: pointer;
-  transition: 0.1s;
-}
+    /** Code */
+    --code-inline-color: #e96900;
+    --code-inline-background: var(--mono-tint3);
+    --code-font-family: "Roboto Mono", monospace;
+    --code-font-size: 13px;
 
-.search input:focus {
-  cursor: text;
-}
+    /** Cover */
+    --cover-heading-color: var(--base-color);
+    --cover-button-border-radius: 2rem;
 
-.sidebar {
-  background-color: #F6F6F7;
-}
+    /** Links */
+    --link-color: var(--theme-color);
 
-.sidebar {
-  width: 270px;
-}
+    /** Sidebar */
+    --sidebar-nav-link-padding: 0.1em 0;
+    --sidebar-padding: 0 14px;
+    --sidebar-name-font-size: 24px;
+    --sidebar-background: #F6F6F7;
+    --sidebar-nav-link-font-weight--active: 600;
+    --sidebar-nav-strong-font-weight: 600;
+    --sidebar-width: 19rem;
 
-.sidebar-toggle {
-  background-color: #00000000;
-  max-width: 0;
-}
+    /* Search */
+    --search-flex-order: 1;
+    --search-input-border-radius: 8px;
+    --search-margin: 24px 24px 0 24px;
+    --search-input-border-color: #dcdcdc;
+    --search-result-item-font-size: 14px;
 
-.markdown-section output:after, .markdown-section pre:after {
-  font-size: 12px;
-  padding: 8px;
-}
+    /** Notice */
+    --notice-tip-background: #07bcbc12;
+    --notice-tip-border-color: var(--theme-color);
 
-.github-corner svg {
-  width: 60px;
-  height: 60px;
-}
-</style>
+    /** Plugins */
+    --copycode-background: var(--theme-color);
+    --docsifytabs-border-radius-px: 4px;
+   }
 
-</head>
-<body>
+   /** Sidebar */
+   .sidebar ul {
+    font-size: 14px;
+   }
+
+   .sidebar-toggle-button {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50% !important;
+    color: #FFF !important;
+    font-size: 20px !important;
+    line-height: 40px !important;
+    background: var(--theme-color) !important;
+    position: absolute !important;
+    left: -20px !important;
+   }
+
+   /** Cover */
+   .cover:before {
+    opacity: 0;
+    /** I like the randomly generated background color */
+   }
+
+   /* Content */
+   .content {
+    padding-top: 3rem;
+   }
+
+   /** Ripple */
+   .docsify-tabs__tab,
+   .cover .cover-main>p:last-child a {
+    cursor: pointer;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+   }
+
+   .docsify-tabs__tab:after,
+   .cover .cover-main>p:last-child a::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    background-image: radial-gradient(circle, #000 10%, transparent 10.01%);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    transform: scale(10, 10);
+    opacity: 0;
+    transition: transform 0.3s, opacity 1s;
+   }
+
+   .docsify-tabs__tab:active:after,
+   .cover .cover-main>p:last-child a:active:after {
+    transform: scale(0, 0);
+    opacity: 0.2;
+    transition: 0s;
+   }
+  </style>
+ </head>
+ <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-      loadNavbar: true,
-      coverpage: true,
-      loadSidebar: true,
-      search: 'auto',
-      name: 'LIGMATV',
-      repo: 'LIGMATV',
-      loadSidebar: true,
-        subMaxLevel: 3,
-      loadFooter: true,
-      copyCode: {
-    buttonText: '📋',
-    errorText: 'Error',
-    successText: 'Copied',
-  },
-  githubEditLink: {
-      repo: "https://github.com/LIGMATV/LIGMATV",
-      title: "<br><br><br> ✏️ Edit this page on GitHub",
-    docsDir: "",
+   window.$docsify = {
+    loadNavbar: true,
+    coverpage: true,
+    search: 'auto',
+    name: 'LIGMATV',
+    repo: 'LIGMATV',
+    loadSidebar: true,
+    subMaxLevel: 3,
+    loadFooter: true,
+    notFoundPage: '404.md',
+    copyCode: {
+     buttonText: '📋',
+     errorText: 'Error',
+     successText: 'Copied',
     },
-    }
-
+    githubEditLink: {
+     repo: "https://github.com/LIGMATV/LIGMATV",
+     title: "<br><br><br> ✏️ Edit this page on GitHub",
+     docsDir: "",
+    },
+   }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
   <script src="https://unpkg.com/docsify-copy-code@2"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-github-edit-link@1/dist/github-edit-link.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-</body>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+ </body>
 </html>
