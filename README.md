@@ -59,9 +59,7 @@
 
 ![2](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Victory%20Hand.webp" style="width:30px; height:30px;">
 
-![3](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)
-
-![-](https://img.shields.io/badge/%E2%9C%A8%20My%20skills-07bbbc?style=for-the-badge) ![-](https://custom-icon-badges.demolab.com/badge/Code%20Beautify.org-ebebeb?logo=codebeautify&style=for-the-badge) ![-](https://custom-icon-badges.demolab.com/badge/Progressive%20Web%20App-570FC2?logo=pwa&style=for-the-badge)
+![-](https://img.shields.io/badge/Docsify-42b983?style=for-the-badge) ![-](https://custom-icon-badges.demolab.com/badge/Protected%20by%20DMCA-c0ffbf?logo=dmca&style=for-the-badge) ![-](https://img.shields.io/badge/%E2%9C%A8%20My%20skills-07bbbc?style=for-the-badge) ![-](https://custom-icon-badges.demolab.com/badge/Code%20Beautify.org-ebebeb?logo=codebeautify&style=for-the-badge)
 
 ---
 
