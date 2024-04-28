@@ -282,7 +282,104 @@ Dan untuk saat ini, kita sudah mempunyai 4 file. Terima kasih sudah membaca!
 
 ![](../img/04-20-2024-(10).jpg)
 
-- [Source Code ↗️](https://github.com/LIGMATV/Experiment/tree/main/tutorial-docsify)
+- [Source Code ↗️](#source-code)
 - [Preview ↗️](https://ligmatv-tutorial-docsify.vercel.app/)
+
+# Source Code
+
+<!-- tabs:start -->
+
+#### **index.html**
+
+```index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+  --theme-color: #ff0000;
+}
+
+body {
+    font-family: "Figtree", sans-serif;
+}
+</style>
+</head>
+<body>
+  <div id="app"></div>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+<script>
+  window.$docsify = {
+    coverpage: true,
+    loadSidebar: true,
+      subMaxLevel: 3,
+      name: 'Blogkuu',
+  }
+</script>
+</html>
+```
+
+#### **README.md**
+
+````README.md
+# LIGMATV
+Hello **bro** ~~*Cool*~~
+
+## Demo
+
+```README.md
+# LIGMATV
+Hello **bro** ~~*Cool*~~
+```
+
+> Sample quote
+
+?> Sample hint
+
+!> Sample warning 
+
+````
+
+#### **_coverpage.md**
+
+```_coverpage.md
+<!-- _coverpage.md -->
+
+![logo](https://ligmatv.vercel.app/img/logo.svg ':size=200')
+
+# LIGMATV <small>2024</small>
+
+> A magical documentation site generator.
+
+Cool  
+*Cool*  
+**Cool**   
+
+[GitHub](https://github.com/LIGMATV/Experiment/tree/main/tutorial-docsify)
+[Get Started](#main)
+
+<!-- background color -->
+
+![color](#07bbbc)
+```
+
+#### **_sidebar.md**
+
+```_sidebar.md
+- This
+  - [Is](https://example.com/)
+  - [Cool](https://example.com/)
+```
+
+<!-- tabs:end -->
+
 
 Blog dibuat pada : 20 April 2024
