@@ -105,14 +105,14 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/2632f96d-8f19-4ea3-ada1-7fc82f19546b" width="50">](https://xn--b78h.vercel.app/) | Cigarettey ![](https://img.shields.io/badge/%F0%9F%8C%90%20Local-efefef?style=flat-square) | Informasi tentang merokok |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/f112dac4-748e-4287-a071-7cbad53b23ce" width="50">](https://2ools.vercel.app/) | 2ools | Some `<this>`2`<this>` tools to used |
 
-Some [Docsify.js](https://docsify.js.org/) utilities
+#### Some [<img src="https://docsify.js.org/_media/icon.svg" style="width:16px; height:14px;"> Docsify.js](https://docsify.js.org/) utilities
 
-| Preview | Name | Description |
-|--|--|--|
-| https://docsify-navbar-fixed.vercel.app/ | 🧩 [docsify-navbar-fixed](https://github.com/LIGMATV/docsify-navbar-fixed) | A new always on top customizable and pretty navigation bar for your docs. |
-| https://docsify-theme-github.vercel.app/ | 🎨 [docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) | The minimal amount of CSS to replicate the GitHub Markdown style. |
-| https://docsify-vite-coverpage.vercel.app/ | 🧩 [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) | A new responsive vite-like coverpage for your docs. |
-| https://docsify-dark-switcher.vercel.app/ | 🧩 [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) | Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes. |
+| Link | Repository/Name | Description |
+|:-:|:-|:-|
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/fbd011a0-5e09-4384-b5a9-790b94739f4b" width="50">](https://docsify-navbar-fixed.vercel.app/) | 🧩 [docsify-navbar-fixed](https://github.com/LIGMATV/docsify-navbar-fixed) | A new always on top customizable and pretty navigation bar for your docs. |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/48a9af4a-bb05-413f-9ffe-0e55e90c2f9d" width="50">](https://docsify-theme-github.vercel.app/) | 🎨 [docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) | The minimal amount of CSS to replicate the GitHub Markdown style. |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/3523f295-9d85-4b72-ad47-3bd2fb210bc4" width="50">](https://docsify-vite-coverpage.vercel.app/) | 🧩 [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) | A new responsive vite-like coverpage for your docs. |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/0d3fd0a4-b9b5-470e-8b2a-ecef4d1ad372" width="50">](https://docsify-dark-switcher.vercel.app/) | 🧩 [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) | Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes. |
 
 ---
 
