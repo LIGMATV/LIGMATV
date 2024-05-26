@@ -114,5 +114,8 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 [![3](https://img.shields.io/badge/Windows%207%20Games-000?style=for-the-badge&logo=windows-xp&logoColor=white)](https://archivs.vercel.app/win7games.com/index.html) 
 [![4](https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000?style=for-the-badge)](https://archivs.vercel.app/pangobright.com/index.html)
 
+---
+
+<!-- Guestbook -->
 
 ![](https://hit.yhype.me/github/profile?user_id=143163098)
