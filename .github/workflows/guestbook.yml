@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Update guestbook with the latest guest post entries
         uses: nfhipona/guestbook-workflow@main
