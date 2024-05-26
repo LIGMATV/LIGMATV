@@ -125,7 +125,4 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 
 ---
 
-<!--START_SECTION:[guestbook-section]-->
-<!--END_SECTION:[guestbook-section]-->
-
 ![](https://hit.yhype.me/github/profile?user_id=143163098)
