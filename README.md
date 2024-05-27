@@ -14,12 +14,12 @@
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 ![](https://komarev.com/ghpvc/?username=LIGMATV&color=07bbbc&style=flat-square)
-[![](https://img.shields.io/badge/Status-687790?style=flat-square&logo=proto.io&logoColor=15ff00)](https://l.hyperping.app/)
+[![](https://img.shields.io/badge/Status-687790?style=flat-square&logo=proto.io&logoColor=15ff00)](https://ligmatv.is-a.dev/status/)
 </p>
 
 ![HEADER](https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg)
 
-[![1](https://img.shields.io/badge/Read%20My%20Blogs!-07bbbc?style=for-the-badge)](https://ligmatv.vercel.app/blog) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </p>
+[![1](https://img.shields.io/badge/Read%20My%20Blogs!-07bbbc?style=for-the-badge)](https://ligmatv.is-a.dev/#/?id=main) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </p>
 
 [![1](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://l-i.vercel.app/youtube)
 [![2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIGMATV)
@@ -104,7 +104,7 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/97c15b45-e8f7-4ec1-ad21-6069c9d4ce70" width="50">](https://kalert.vercel.app/) | KustomAlert.js ![](https://img.shields.io/badge/Failed-ff0000?style=flat-square) | We just need an good and simple alert. |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/2632f96d-8f19-4ea3-ada1-7fc82f19546b" width="50">](https://xn--b78h.vercel.app/) | Cigarettey ![](https://img.shields.io/badge/%F0%9F%8C%90%20Local-efefef?style=flat-square) | Informasi tentang merokok |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/f112dac4-748e-4287-a071-7cbad53b23ce" width="50">](https://2ools.vercel.app/) | 2ools | Some `<this>`2`<this>` tools to used |
-| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/8d379378-cd1e-4519-9854-1c6c6261c05e" width="50">](https://archivs.vercel.app/) | Archivs | Web Archivs <br> [![1](https://custom-icon-badges.demolab.com/badge/Arc%20Browser-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/arc.net/index.html) [![2](https://custom-icon-badges.demolab.com/badge/Is%20Arc%20On%20Windows%20Yet-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/www.isarconwindowsyet.com/index.html) [![3](https://img.shields.io/badge/Windows%207%20Games-000?style=for-the-badge&logo=windows-xp&logoColor=white)](https://archivs.vercel.app/win7games.com/index.html)  [![4](https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000?style=for-the-badge)](https://archivs.vercel.app/pangobright.com/index.html) |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/8d379378-cd1e-4519-9854-1c6c6261c05e" width="50">](https://archivs.vercel.app/) | Archivs | Web Archivs <br> [![1](https://custom-icon-badges.demolab.com/badge/Arc%20Browser-000?logo=arcbrowser&logoColor=white)](https://archivs.vercel.app/arc.net/index.html) [![2](https://custom-icon-badges.demolab.com/badge/Is%20Arc%20On%20Windows%20Yet-000?logo=arcbrowser&logoColor=white)](https://archivs.vercel.app/www.isarconwindowsyet.com/index.html) [![3](https://img.shields.io/badge/Windows%207%20Games-000?logo=windows-xp&logoColor=white)](https://archivs.vercel.app/win7games.com/index.html)  [![4](https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000)](https://archivs.vercel.app/pangobright.com/index.html) |
 
 #### Some [<img src="https://docsify.js.org/_media/icon.svg" style="width:16px; height:14px;"> Docsify.js](https://docsify.js.org/) utilities
 
