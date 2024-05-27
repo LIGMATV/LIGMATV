@@ -53,13 +53,13 @@
 
 ---
 
-### My website built in
+### My website built using
 
 ![1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" style="width:30px; height:30px;">
 
-![2](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Victory%20Hand.webp" style="width:30px; height:30px;">
+![2](https://img.shields.io/badge/Docsify-42b983?style=for-the-badge)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Printer.webp" alt="Printer" style="width:30px; height:30px;">
 
-![-](https://img.shields.io/badge/Docsify-42b983?style=for-the-badge) ![-](https://custom-icon-badges.demolab.com/badge/Protected%20by%20DMCA-c0ffbf?logo=dmca&style=for-the-badge) ![-](https://img.shields.io/badge/%E2%9C%A8%20My%20skills-07bbbc?style=for-the-badge)
+![-](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![-](https://img.shields.io/badge/Giscus-5DADEC?style=for-the-badge&logo=sketch&logoColor=white) ![-](https://custom-icon-badges.demolab.com/badge/DMCA%20Protection-c0ffbf?logo=dmca&style=for-the-badge) ![-](https://img.shields.io/badge/%E2%9C%A8%20My%20skills-07bbbc?style=for-the-badge)
 
 ---
 
@@ -104,6 +104,7 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/97c15b45-e8f7-4ec1-ad21-6069c9d4ce70" width="50">](https://kalert.vercel.app/) | KustomAlert.js ![](https://img.shields.io/badge/Failed-ff0000?style=flat-square) | We just need an good and simple alert. |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/2632f96d-8f19-4ea3-ada1-7fc82f19546b" width="50">](https://xn--b78h.vercel.app/) | Cigarettey ![](https://img.shields.io/badge/%F0%9F%8C%90%20Local-efefef?style=flat-square) | Informasi tentang merokok |
 | [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/f112dac4-748e-4287-a071-7cbad53b23ce" width="50">](https://2ools.vercel.app/) | 2ools | Some `<this>`2`<this>` tools to used |
+| [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/8d379378-cd1e-4519-9854-1c6c6261c05e" width="50">](https://archivs.vercel.app/) | Archivs | Web Archivs <br> [![1](https://custom-icon-badges.demolab.com/badge/Arc%20Browser-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/arc.net/index.html) [![2](https://custom-icon-badges.demolab.com/badge/Is%20Arc%20On%20Windows%20Yet-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/www.isarconwindowsyet.com/index.html) [![3](https://img.shields.io/badge/Windows%207%20Games-000?style=for-the-badge&logo=windows-xp&logoColor=white)](https://archivs.vercel.app/win7games.com/index.html)  [![4](https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000?style=for-the-badge)](https://archivs.vercel.app/pangobright.com/index.html) |
 
 #### Some [<img src="https://docsify.js.org/_media/icon.svg" style="width:16px; height:14px;"> Docsify.js](https://docsify.js.org/) utilities
 
@@ -116,13 +117,10 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 
 ---
 
-[![LIGMATV's Card](https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Archives&theme=catppuccin_latte)](https://archivs.vercel.app/)
+<div align="center">
+  
+© 2024 [LIGMATV](https://ligmatv.is-a.dev/)
 
-[![1](https://custom-icon-badges.demolab.com/badge/Arc%20Browser-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/arc.net/index.html)
-[![2](https://custom-icon-badges.demolab.com/badge/Is%20Arc%20On%20Windows%20Yet-000?logo=arcbrowser&style=for-the-badge&logoColor=white)](https://archivs.vercel.app/www.isarconwindowsyet.com/index.html)
-[![3](https://img.shields.io/badge/Windows%207%20Games-000?style=for-the-badge&logo=windows-xp&logoColor=white)](https://archivs.vercel.app/win7games.com/index.html) 
-[![4](https://img.shields.io/badge/PangoBright%20Screen%20Dimmer-000?style=for-the-badge)](https://archivs.vercel.app/pangobright.com/index.html)
-
----
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=143163098)
