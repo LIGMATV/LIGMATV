@@ -76,6 +76,7 @@
 
 ### My Stats
 
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=LIGMATV&column=5&margin-w=15&margin-h=15&theme=nord)
 ![LIGMATV's Stats](https://github-readme-stats.vercel.app/api?username=LIGMATV&theme=nord)  
 ![LIGMATV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGMATV&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
 
