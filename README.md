@@ -118,10 +118,8 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 
 ---
 
-<div align="center">
-  
-© 2024 [LIGMATV](https://ligmatv.is-a.dev/)
-
-</div>
+<p align="center">
+© 2024 <a href="https://ligmatv.is-a.dev/">LIGMATV</a>
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=143163098)
