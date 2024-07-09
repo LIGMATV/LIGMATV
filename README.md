@@ -32,7 +32,7 @@
 [![*](https://img.shields.io/badge/File%20PPTX-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://github.com/kdensport/File-PPTX)
 [![*](https://img.shields.io/badge/Video%20Lama-B7472A?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/kdensport/Videos)
 
-#### Hello! Im a *(not)* too excited developer, im just do it for fun in the free time.
+Without all these `codes`, life will become **meaningless**
 
 </div>
 
