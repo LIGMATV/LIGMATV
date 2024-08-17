@@ -122,4 +122,11 @@ All my project come in [MIT License](https://opensource.org/license/mit).
 © 2024 <a href="https://ligmatv.is-a.dev/">LIGMATV</a>
 </p>
 
+---
+
+#### Upcoming breaking things:
+- [ ] Change all my username and name from **LIGMATV** to **LMCXP** <sup> *(Let Me Code ~~X~~Anything Please)* </sup>  
+      <sup> Because "LIGMATV" name is purposely to be for my videos channel name </sup>
+- [ ] Create new logo and icons, replace all the old ones.
+
 ![](https://hit.yhype.me/github/profile?user_id=143163098)
