@@ -1,7 +1,4 @@
-<div align="right">
-
 # LIGMATV
 
-Still cleaning my identity + My time is running out now 😕
-
-</div>
+🅰️🔍⚡💯🐥👁️🎨📝➗  
+Try [boredown](https://github.com/LIGMATV/boredown), Simply writing and make site in Markdown without feel stupid for just knowing basic.
