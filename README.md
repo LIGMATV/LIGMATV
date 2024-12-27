@@ -1,10 +1,8 @@
 # LIGMATV
 
-Introducing [GMX.css](https://github.com/LIGMATV/gmx.css), material design based CSS framework. [**Learn more!**](https://dev.to/ligmatv/gmxcss-the-most-lightweight-material-design-based-framework-55g)
+Introducing [11ty Beer](https://github.com/LIGMATV/11ty-beer), an 11ty blog template with Material Design, PWA and minified files that simply works. [**Demo**](https://11ty-beer.vercel.app/)
 
-![GMX.css features](https://github.com/user-attachments/assets/1180f756-1f63-4f5d-b42f-9af615ac5260)
-
-!!!!
+![Four Hundos Lighthouse score](https://github.com/user-attachments/assets/3fb56bec-92d5-4908-a7dc-7e199c1e5544)
 
 ---
 
