@@ -1,4 +1,10 @@
-# LIGMATV
+# I'm LIGMATV, thanks for your presence. 
+
+[![wakatime](https://wakatime.com/badge/user/85b9d580-b10f-4b9e-a6bf-071472cd4dba.svg)](https://wakatime.com/@85b9d580-b10f-4b9e-a6bf-071472cd4dba)
+
+---
+
+#### A little bit of my latest projects:
 
 Introducing [11ty Beer](https://github.com/LIGMATV/11ty-beer), an 11ty blog template with Material Design, PWA and minified files that simply works. [**Demo**](https://11ty-beer.vercel.app/)
 
